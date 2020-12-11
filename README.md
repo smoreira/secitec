@@ -1,6 +1,6 @@
 ## Semana Nacional de Ciência e Tecnologia
 
-Workshop de Reconhecendo Imagens com Inteligência Artificial - Secitec
+Workshop de Reconhecendo Imagens com Inteligência Artificial
 
 
-#IF Goiás - Campus Goiânia
+IF Goiás - Campus Goiânia
